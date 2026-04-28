@@ -1,0 +1,31 @@
+# Database (auto-created at runtime)
+lab_reports.db
+
+# Attachment storage (auto-created at runtime)
+attachments/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

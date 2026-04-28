@@ -1,0 +1,10 @@
+# No external dependencies required.
+# The application uses Python standard library only:
+#   - tkinter  (GUI)
+#   - sqlite3  (database)
+#   - hashlib  (password hashing)
+#   - shutil   (file copy for attachments)
+#   - subprocess / os (opening attachments with the system viewer)
+#
+# Install python3-tk on Debian/Ubuntu:
+#   sudo apt-get install python3-tk
